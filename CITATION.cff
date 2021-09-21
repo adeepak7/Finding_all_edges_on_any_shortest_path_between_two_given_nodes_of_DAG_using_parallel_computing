@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ahire"
+  given-names: "Deepak"
+  orcid: "https://orcid.org/
+0000-0002-9174-0797"
+title: "Finding all edges on any shortest path between two given nodes of DAG using parallel computing"
+version: 1.0
+doi: 10.5281/zenodo.4893226
+date-released: 2021-06-02
+url: "https://github.com/adeepak7/Finding_all_edges_on_any_shortest_path_between_two_given_nodes_of_DAG_using_parallel_computing"
