@@ -5,7 +5,7 @@ Implementation of the algorithm proposed in the research article **"Finding all 
 The parallel version of Dijkstra's algorithm which is implemented using the adjacency list and the OpenMP is also proposed in the article **"An Autonomous Intelligent System to Leverage the PostHarvest Agricultural Process using Localization and Mapping"**. This article is accepted at the **International Conference Intelligent Systems and Sustainable Computing (ICISSC) 2021**, Hyderabad.
 
 
-### Citation
+### Citation (Bibtex format)
 
 ```
 @InProceedings{10.1007/978-981-16-8987-1_73,
